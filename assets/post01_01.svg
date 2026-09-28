@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6d1024"/><stop offset="1" stop-color="#b7792b"/></linearGradient>
+</defs>
+<rect width="1080" height="1350" fill="url(#bg)"/>
+<rect x="45" y="45" width="990" height="1260" rx="38" fill="#f7efd9" stroke="#d5a64b" stroke-width="8"/>
+<text x="540" y="170" text-anchor="middle" font-family="Noto Sans Tamil, sans-serif" font-size="64" font-weight="700" fill="#6d1024">108 திவ்ய தேசங்கள்</text>
+<text x="540" y="240" text-anchor="middle" font-family="Noto Sans Tamil, sans-serif" font-size="34" fill="#5e4428">திருத்தலங்கள் • பெருமாள் • தாயார் • அமைவிடம்</text>
+<circle cx="540" cy="430" r="170" fill="#ead6aa" stroke="#b7792b" stroke-width="8"/>
+<path d="M440 500 Q540 360 640 500" fill="none" stroke="#6d1024" stroke-width="18"/>
+<path d="M470 500 L470 385 L610 385 L610 500" fill="none" stroke="#6d1024" stroke-width="14"/>
+<path d="M505 385 L540 310 L575 385" fill="none" stroke="#6d1024" stroke-width="14"/>
+<text x="540" y="710" text-anchor="middle" font-family="Noto Sans Tamil, sans-serif" font-size="40" font-weight="700" fill="#6d1024">ஆழ்வார்கள் மங்களாசாசனம் செய்த</text>
+<text x="540" y="770" text-anchor="middle" font-family="Noto Sans Tamil, sans-serif" font-size="46" font-weight="700" fill="#6d1024">ஸ்ரீமன் நாராயணனின் திருத்தலங்கள்</text>
+<text x="540" y="900" text-anchor="middle" font-family="Noto Sans Tamil, sans-serif" font-size="30" fill="#5e4428">106 பூமியில் உள்ளவை  •  2 விண்ணுலகத் திருத்தலங்கள்</text>
+<text x="540" y="955" text-anchor="middle" font-family="Noto Sans Tamil, sans-serif" font-size="30" fill="#5e4428">சோழநாடு 40 • நடுநாடு 2 • தொண்டைநாடு 22</text>
+<text x="540" y="1005" text-anchor="middle" font-family="Noto Sans Tamil, sans-serif" font-size="30" fill="#5e4428">மலைநாடு 13 • பாண்டியநாடு 18 • வடநாடு 11</text>
+<text x="540" y="1170" text-anchor="middle" font-family="Noto Sans Tamil, sans-serif" font-size="42" font-weight="700" fill="#6d1024">ஸ்ரீமன் நாராயணாய நமः</text>
+</svg>
